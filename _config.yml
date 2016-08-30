@@ -1,0 +1,29 @@
+name: mars hopper
+favicon: null
+layout_spectrum: 0.4807650677394122
+typography_spectrum: 0.12200942076742649
+title: Mars Hopper model development
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.9595447322353721
+  lightness: 0.4260212758090347
+  saturation: 0.22665451746433973
+  rhythmicContrast: 0.689779051579535
+purpose: []
